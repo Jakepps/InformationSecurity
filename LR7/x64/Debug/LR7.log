@@ -1,0 +1,6 @@
+﻿  LR7.cpp
+C:\Users\Артём\source\repos\LR7\LR7.cpp(118,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Артём\source\repos\LR7\LR7.cpp(116,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Артём\source\repos\LR7\LR7.cpp(169,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Артём\source\repos\LR7\LR7.cpp(171,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR7.vcxproj -> C:\Users\Артём\source\repos\LR7\x64\Debug\LR7.exe

@@ -32,3 +32,5 @@
 *.app
 */v17/Browse.VC.opendb
 *.opendb
+*.db-wal
+*.db
