@@ -1,9 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
-#include <algorithm>
 #include <fstream>
 #include <string>
-#include <ctime>
 #include <regex>
 using namespace std;
 
